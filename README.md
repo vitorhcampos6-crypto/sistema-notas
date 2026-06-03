@@ -19,6 +19,13 @@ O sistema foi desenhado para operar em duas frentes principais através de um me
      * **Reprovado:** Média $<$ 5.0
    * Resumo estatístico final (total de aprovados, em recuperação e reprovados).
    * Salvamento automático do relatório no arquivo `relatorio.txt`.
+   
+   Cadastro de alunos e notas por disciplina
+- Cálculo de médias por aluno
+- Classificação: Aprovado, Recuperação ou Reprovado
+- Relatório salvo em arquivo .txt com data e hora
+- Leitura de relatório salvo
+- Menu "Sobre o sistema"
 
 2. **Visualizar Relatório Salvo:**
    * Leitura rápida e exibição no terminal do último relatório gravado, sem necessidade de reprocessar os dados.
